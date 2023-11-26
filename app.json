@@ -1,0 +1,29 @@
+{
+  "id": "2f0c6afe-8f85-4917-b944-17f7a3f67575",
+  "name": "LearningAL",
+  "publisher": "Simon Aeby",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "https://github.com/laendrun/Learning-AL",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "preprocessorSymbols": [ "DEV" ],
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "7.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
